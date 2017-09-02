@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Party Delights
+subtitle: Translation of web content and Google AdWords from English to Spanish.
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+#date: 2014-07-15
+img: Partydelights.jpg
+thumbnail: Partydelights-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+#project-date: April 2014
+client: Party Delights
+category: Translation
+description: Translation of web content and Google AdWords from English to Spanish. Writing meta descriptions and title tags. SEO.
 
 ---
