@@ -4,9 +4,9 @@ subtitle: Translation of web content and Google AdWords from English to Spanish.
 layout: default
 modal-id: 6
 #date: 2014-07-15
-img: Partydelights.jpg
-thumbnail: Partydelights-thumbnail.jpg
-alt: image-alt
+img: PartyDelights.jpg
+thumbnail: PartyDelights-thumbnail.jpg
+alt: Party Delights
 #project-date: April 2014
 client: Party Delights
 category: Translation
