@@ -8,16 +8,9 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">I’m a native Spanish speaker and an experienced translator and copywriter. I lived both in Latin America and Spain, acquiring a deep understanding of cultural differences and idioms. This allows me to successfully adapt the vocabulary to a specific audience or market and to create useful, readable, and engaging texts that will sound natural in the target language.<br>
-Over the last 12 years, I have been working with clients from all corners of the world and a wide variety of industries and sectors. I always deliver high quality texts with a fast turnaround, making sure that the information is coherent, accurate and perfectly written.</p>
-                </div>
-            </div>
-            <div class="row">
                 {% for member in site.people %}
                 <div>
                     <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
                         <ul class="list-inline social-buttons">
@@ -30,6 +23,12 @@ Over the last 12 years, I have been working with clients from all corners of the
                             {% endfor %}
 
                         </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 text-center">
+                        <p class="large text-muted">I’m a native Spanish speaker and an experienced translator and copywriter. I lived both in Latin America and Spain, acquiring a deep understanding of cultural differences and idioms. This allows me to successfully adapt the vocabulary to a specific audience or market and to create useful, readable, and engaging texts that will sound natural in the target language.<br>
+    Over the last 12 years, I have been working with clients from all corners of the world and a wide variety of industries and sectors. I always deliver high quality texts with a fast turnaround, making sure that the information is coherent, accurate and perfectly written.</p>
                     </div>
                 </div>
                 {% endfor %}
