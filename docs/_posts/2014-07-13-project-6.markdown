@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 #date: 2014-07-15
 img: PartyDelights.jpg
-thumbnail: PartyDelights-thumbnail.jpg
+thumbnail: PartyDelights-thumbnail.png
 alt: Party Delights
 #project-date: April 2014
 client: Party Delights
